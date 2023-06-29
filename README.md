@@ -1,2 +1,19 @@
-# lista-de-exercicios-mais-projeto1-curso-python-datascience
-Neste repositório se encontram as listas de atividades do módulo 4 ao 6 da primeira etapa do curso "Fundamentos de Linguagem Python Para Análise de Dados e Data Science" assim como o primeiro projeto desta etapa inicial.
+## Lista de Exercícios + Projeto 1 
+
+### Abaixo constam alguns dos temas trabalhados durante a etapa inicial do curso de Python para Análise de Dados e Data Science da DSA (Data Science Academy)
+
+- Variáveis, Tipos e Estruturas de Dados;
+- Loops, Condicionais, Métodos e Funções;
+- Tratamento de Arquivos, Módulos, Pacotes e Funções Built-in
+
+### Sobre o Projeto
+
+- O projeto consiste no desenvolvimento do "Hangman game" ou "Jogo da Forca" aplicando todo conhecimento adquirido nos capítulos iniciais
+
+
+#### OBS: O pseudocódigo da proposta do jogo assim como o seu desenvolvimento encontram-se neste repositório
+
+
+
+
+
